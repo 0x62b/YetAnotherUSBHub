@@ -55,4 +55,4 @@ Prerequisites: soldered PCB and printed case
 
 ### Cart screenshots
 
-### Zine# YetAnotherUSBHub
+### Zine
