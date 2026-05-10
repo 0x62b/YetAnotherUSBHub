@@ -4,9 +4,9 @@ A 4-port low cost USB 2.0 hub with upstream USB-C and downstream USB-A x2, USB-C
 ## Motivation
 
 ## Repo Structure
-`cad`: CAD files
-`pcb`: The KiCad PCB design files, and gerbers in `pcb/production`
-`bom.csv`: The BOM needed to assemble the PCB
+`cad`: CAD files\
+`pcb`: The KiCad PCB design files, and gerbers in `pcb/production`\
+`bom.csv`: The BOM needed to assemble the PCB\
 `lcsc.csv`: My LCSC cart export
 
 ## BOM
@@ -44,15 +44,18 @@ Prerequisites: soldered PCB and printed case
 
 ## Images
 ### Schematic
+<img width="1811" height="1004" alt="image" src="https://github.com/user-attachments/assets/b119971e-4e9b-4646-b3ad-1f7e04e5f507" />
 
 ### PCB layout
-
+<img width="1651" height="768" alt="image" src="https://github.com/user-attachments/assets/692d26eb-3566-41c1-94e7-2b437b3f0449" />
 
 ### PCB render
-
+<img width="1401" height="663" alt="image" src="https://github.com/user-attachments/assets/f2c9b152-c192-4936-bbc1-8783eb814260" />
 
 ### Full render
 
 ### Cart screenshots
+<img width="1301" height="809" alt="image" src="https://github.com/user-attachments/assets/820835a0-0af5-422c-ad08-33c8d8ea4684" />
+<img width="1261" height="868" alt="image" src="https://github.com/user-attachments/assets/3c0fee77-7b41-4a79-b8fd-47d0a49c9045" />
 
 ### Zine
