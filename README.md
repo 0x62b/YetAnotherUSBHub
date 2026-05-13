@@ -59,6 +59,8 @@ Prerequisites: soldered PCB and printed case
 <img width="1401" height="663" alt="image" src="https://github.com/user-attachments/assets/f2c9b152-c192-4936-bbc1-8783eb814260" />
 
 ### Full render
+<img width="1368" height="716" alt="image" src="https://github.com/user-attachments/assets/38500ff2-8e83-4c95-84af-a6e3cbc747f1" />
+You may notice the USB-C ports seem not to fit; this seems to be an issue of the 3D models, because if you look at it a bit more closely the PCB sits level and so do the rest of the slots, meaning this is 99% a model issue.
 
 ### Cart screenshots
 <img width="1301" height="809" alt="image" src="https://github.com/user-attachments/assets/820835a0-0af5-422c-ad08-33c8d8ea4684" />
