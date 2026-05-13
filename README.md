@@ -30,8 +30,8 @@ routing differential pairs, etc. This was a fun project, not a thing that you wo
 |1mm*1mm magnets                    |5.66            |1       |5.66                |4.1                        |pack of 100|https://www.aliexpress.com/item/1005010129861409.html|
 
 ## Cost
-BOM (1 board + case): LCSC[7.17 USD + 3 USD handling + 9.38 USD shipping = 19.55 USD] + AliExpress[4.53 + 4.1 = 8.63 USD] = 28.18 USD
-PCB: 2 USD + 1.5 USD shipping = 3.5 USD
+BOM (1 board + case): LCSC[7.17 USD + 3 USD handling + 9.38 USD shipping = 19.55 USD] + AliExpress[4.53 + 4.1 = 8.63 USD] = 28.18 USD\
+PCB: 2 USD + 1.5 USD shipping = 3.5 USD\
 Total: 31.68 USD (1 board + case)
 
 ## Assembly
