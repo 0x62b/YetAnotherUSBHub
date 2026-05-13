@@ -529,7 +529,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "production/",
+      "plot": "../cad/",
       "specctra_dsn": "",
       "vrml": ""
     },
