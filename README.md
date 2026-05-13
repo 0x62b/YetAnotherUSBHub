@@ -69,5 +69,5 @@ You may notice the USB-C ports seem not to fit; this seems to be an issue of the
 <img width="1261" height="868" alt="image" src="https://github.com/user-attachments/assets/3c0fee77-7b41-4a79-b8fd-47d0a49c9045" />
 
 ### Zine
-<img width="763" height="1076" alt="image" src="https://github.com/user-attachments/assets/cd695ad2-806e-41b2-acbd-f29aa1aa1369" />
+<img width="763" height="1079" alt="image" src="https://github.com/user-attachments/assets/c7697722-8890-4233-a2c3-df2b15b1f728" />
 
