@@ -10,22 +10,22 @@ A 4-port low cost USB 2.0 hub with upstream USB-C and downstream USB-A x2, USB-C
 `lcsc.csv`: My LCSC cart export
 
 ## BOM
-|Item                               |Unit Price (AUD)|Quantity|Extended Price (AUD)|Extended Price (USD approx)|Notes      |Link                                            |
-|-----------------------------------|----------------|--------|--------------------|---------------------------|-----------|------------------------------------------------|
-|100nF 0402 capacitor               |0               |2       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C60474.html |
-|10uF 0402 capacitor                |0               |7       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C315248.html|
-|onsemi NSR0320MW2T1G               |1.18            |1       |1.18                |0.86                       |N/A        |https://www.lcsc.com/product-detail/C48192.html |
-|Green 0402 LED                     |0               |1       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C598352.html|
-|Molex 67643-2911                   |0.89            |2       |1.78                |1.29                       |N/A        |https://www.lcsc.com/product-detail/C293351.html|
-|Molex 104031-0811                  |0.62            |1       |0.62                |0.45                       |N/A        |https://www.lcsc.com/product-detail/C585350.html|
-|Korean Hroparts Elec TYPE-C-31-M-12|0.85            |2       |1.7                 |1.23                       |N/A        |https://www.lcsc.com/product-detail/C165948.html|
-|1K 0402 resistor                   |0               |1       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C106235.html|
-|5.1K 0402 resistor                 |0               |2       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C105872.html|
-|56K 0402 resistor                  |0               |2       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C114756.html|
-|CoreChips SL2.1A                   |1.18            |1       |1.18                |0.86                       |N/A        |https://www.lcsc.com/product-detail/C192893.html|
-|GENESYS GL823K-HCY04               |0.46            |1       |0.46                |0.33                       |N/A        |https://www.lcsc.com/product-detail/C284879.html|
-|2mm acrylic sheet                  |6.25            |1       |6.25                |4.53                       |200x200x2mm|https://www.aliexpress.com/item/32817321651.html
-|1mm*1mm magnets                    |5.66            |1       |5.66                |4.1                        |pack of 100|https://www.aliexpress.com/item/1005010129861409
+|Item                               |Unit Price (AUD)|Quantity|Extended Price (AUD)|Extended Price (USD approx)|Notes      |Link                                                 |
+|-----------------------------------|----------------|--------|--------------------|---------------------------|-----------|-----------------------------------------------------|
+|100nF 0402 capacitor               |0               |2       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C60474.html      |
+|10uF 0402 capacitor                |0               |7       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C315248.html     |
+|onsemi NSR0320MW2T1G               |1.18            |1       |1.18                |0.86                       |N/A        |https://www.lcsc.com/product-detail/C48192.html      |
+|Green 0402 LED                     |0               |1       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C598352.html     |
+|Molex 67643-2911                   |0.89            |2       |1.78                |1.29                       |N/A        |https://www.lcsc.com/product-detail/C293351.html     |
+|Molex 104031-0811                  |0.62            |1       |0.62                |0.45                       |N/A        |https://www.lcsc.com/product-detail/C585350.html     |
+|Korean Hroparts Elec TYPE-C-31-M-12|0.85            |2       |1.7                 |1.23                       |N/A        |https://www.lcsc.com/product-detail/C165948.html     |
+|1K 0402 resistor                   |0               |1       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C106235.html     |
+|5.1K 0402 resistor                 |0               |2       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C105872.html     |
+|56K 0402 resistor                  |0               |2       |0                   |0                          |Owned      |https://www.lcsc.com/product-detail/C114756.html     |
+|CoreChips SL2.1A                   |1.18            |1       |1.18                |0.86                       |N/A        |https://www.lcsc.com/product-detail/C192893.html     |
+|GENESYS GL823K-HCY04               |0.46            |1       |0.46                |0.33                       |N/A        |https://www.lcsc.com/product-detail/C284879.html     |
+|2mm acrylic sheet                  |6.25            |1       |6.25                |4.53                       |200x200x2mm|https://www.aliexpress.com/item/32817321651.html     |
+|1mm*1mm magnets                    |5.66            |1       |5.66                |4.1                        |pack of 100|https://www.aliexpress.com/item/1005010129861409.html|
 
 ## Cost
 BOM (1 board + case): LCSC[7.17 USD + 3 USD handling + 9.38 USD shipping = 19.55 USD] + AliExpress[4.53 + 4.1 = 8.63 USD] = 28.18 USD
