@@ -1,5 +1,6 @@
 # YetAnotherUSBHub
 A 4-port low cost USB 2.0 hub with upstream USB-C and downstream USB-A x2, USB-C, and microSD.
+onshape: https://cad.onshape.com/documents/d3076bcf5bdf960a68612e95/w/1076ab7133259d721c6eb065/e/0b541aa8461793eb55190b47?renderMode=0&uiState=6a0653a430b61269bd2de70a
 
 ## Motivation
 This is not meant to be a commercially viable or even usefully viable project for most people; I made this project mainly to learn about how to use USB and microSD,
