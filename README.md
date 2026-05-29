@@ -1,6 +1,6 @@
 # YetAnotherUSBHub
 A 4-port low cost USB 2.0 hub with upstream USB-C and downstream USB-A x2, USB-C, and microSD.
-onshape: https://cad.onshape.com/documents/d3076bcf5bdf960a68612e95/w/1076ab7133259d721c6eb065/e/0b541aa8461793eb55190b47?renderMode=0&uiState=6a0653a430b61269bd2de70a
+wip onshape: https://cad.onshape.com/documents/d3076bcf5bdf960a68612e95/w/1076ab7133259d721c6eb065/e/0b541aa8461793eb55190b47?renderMode=0&uiState=6a0653a430b61269bd2de70a
 
 ## Motivation
 This is not meant to be a commercially viable or even usefully viable project for most people; I made this project mainly to learn about how to use USB and microSD,
@@ -54,22 +54,17 @@ Prerequisites: soldered PCB and printed case
 
 ## Images
 ### Schematic
-<img width="1811" height="1004" alt="image" src="https://github.com/user-attachments/assets/b119971e-4e9b-4646-b3ad-1f7e04e5f507" />
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/2b1e823b-9b6c-452f-95c5-dd407f91a08f" />
 
 ### PCB layout
-<img width="1651" height="768" alt="image" src="https://github.com/user-attachments/assets/692d26eb-3566-41c1-94e7-2b437b3f0449" />
+<img width="1928" height="867" alt="image" src="https://github.com/user-attachments/assets/f1fbdf30-a1ba-47c2-9c87-27be6118d292" />
 
 ### PCB render
-<img width="1401" height="663" alt="image" src="https://github.com/user-attachments/assets/f2c9b152-c192-4936-bbc1-8783eb814260" />
+<img width="1455" height="694" alt="image" src="https://github.com/user-attachments/assets/7ec15230-7ca1-4d80-8cb0-1a8aaca63bd4" />
 
 ### Full render
-<img width="1368" height="716" alt="image" src="https://github.com/user-attachments/assets/38500ff2-8e83-4c95-84af-a6e3cbc747f1" />
-You may notice the USB-C ports seem not to fit; this seems to be an issue of the 3D models, because if you look at it a bit more closely the PCB sits level and so do the rest of the slots, meaning this is 99% a model issue.
-
-### Cart screenshots
-<img width="1301" height="809" alt="image" src="https://github.com/user-attachments/assets/820835a0-0af5-422c-ad08-33c8d8ea4684" />
-<img width="1261" height="868" alt="image" src="https://github.com/user-attachments/assets/3c0fee77-7b41-4a79-b8fd-47d0a49c9045" />
+todo
 
 ### Zine
-<img width="763" height="1079" alt="image" src="https://github.com/user-attachments/assets/c7697722-8890-4233-a2c3-df2b15b1f728" />
+<img width="455" height="642" alt="image" src="https://github.com/user-attachments/assets/0363bdc3-d55f-45a3-aa62-d35d6e96e749" />
 
