@@ -10,7 +10,6 @@ routing differential pairs, etc. This was a fun project, not a thing that you wo
 `cad`: CAD files\
 `pcb`: The KiCad PCB design files, and gerbers in `pcb/production`\
 `bom.csv`: The BOM needed to assemble the PCB\
-`lcsc.csv`: My LCSC cart export
 
 ## BOM
 |Item                               |Unit Price (AUD)|Quantity|Extended Price (AUD)|Extended Price (USD)       |Notes      |Link                                                 |
