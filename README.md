@@ -29,28 +29,20 @@ routing differential pairs, etc. This was a fun project, not a thing that you wo
 |TPD2E2U06DCK                       |0.21            |3       |1.05                |0.76                       |MOQ 5      |https://www.lcsc.com/product-detail/C1855726.html    |
 |TPD6F003                           |0.93            |1       |0.93                |0.67                       |N/A        |https://www.lcsc.com/product-detail/C2863873.html    |
 |2mm acrylic sheet                  |6.25            |1       |6.25                |4.53                       |200x200x2mm|https://www.aliexpress.com/item/32817321651.html     |
-|1mm*1mm magnets                    |5.66            |1       |5.66                |4.1                        |pack of 100|https://www.aliexpress.com/item/1005010129861409.html|
 
 ## Cost
-BOM (1 board + case): LCSC[6.92 USD + 3 USD handling + 9.38 USD shipping = 19.3 USD] + AliExpress[4.53 + 4.1 = 8.63 USD] = 27.93 USD\
+BOM (1 board + case): LCSC[6.92 USD + 3 USD handling + 9.38 USD shipping = 19.3 USD] + AliExpress[4.53 USD] = 23.83 USD\
 PCB: 2 USD + 3.3 USD shipping = 5.3 USD\
-Total: 33.23 USD (1 board + case)
+Total: 29.13 USD (1 board + case)
 
 ## Assembly
-### Soldering the PCB
-1. Solder the small passives. Smallest is 0402, making it easily achievable with a normal soldering iron
-2. Solder the 2 ICs
-3. Solder the Type-C ports
-4. Solder the Type-A ports
-
-### Assembly
 Prerequisites: soldered PCB and printed case
 
-1. Glue magnets into the holes in the both parts of the case
-2. Mark out the dimensions of the acrylic window and use a scoring tool (or other method) to cut it
-3. Glue the acrylic window in place from the sides
-4. Place the PCB into the bottom case
-5. Once the glue holding the magnets has dried, place the top case onto the bottom case to complete the build
+1. Mark out the dimensions of the acrylic window and use a scoring tool to cut it
+2. From the sides, glue the acrylic window into the top case
+3. Wait for glue to set
+4. Place completed PCB into bottom case (optionally, affix it with double sided tape, but it should be held in place by friction anyway
+5. Glue the top half onto bottom half (I tried, with this kind of size its not very feasible to use screws or anything)
 
 ## Images
 ### Schematic
