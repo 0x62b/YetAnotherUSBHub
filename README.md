@@ -66,5 +66,5 @@ Prerequisites: soldered PCB and printed case
 <img width="933" height="621" alt="image" src="https://github.com/user-attachments/assets/cac46d55-a1c9-45f1-a4b1-9049f79ea7c8" />
 
 ### Zine
-<img width="455" height="642" alt="image" src="https://github.com/user-attachments/assets/0363bdc3-d55f-45a3-aa62-d35d6e96e749" />
+<img width="696" height="992" alt="image" src="https://github.com/user-attachments/assets/96951f64-cadd-4a4e-9b3d-44349c946a8c" />
 
