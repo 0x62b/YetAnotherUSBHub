@@ -29,6 +29,7 @@ routing differential pairs, etc. This was a fun project, not a thing that you wo
 |TPD2E2U06DCK                       |0.21            |3       |1.05                |0.76                       |MOQ 5      |https://www.lcsc.com/product-detail/C1855726.html    |
 |TPD6F003                           |0.93            |1       |0.93                |0.67                       |N/A        |https://www.lcsc.com/product-detail/C2863873.html    |
 |2mm acrylic sheet                  |6.25            |1       |6.25                |4.53                       |200x200x2mm|https://www.aliexpress.com/item/32817321651.html     |
+|PCB                                |-               |5       |-                   |5.3                        |N/A        |https://jlcpcb.com                                   |
 
 ## Cost
 BOM (1 board + case): LCSC[6.92 USD + 3 USD handling + 9.38 USD shipping = 19.3 USD] + AliExpress[4.53 USD] = 23.83 USD\
