@@ -63,7 +63,7 @@ Prerequisites: soldered PCB and printed case
 <img width="1455" height="694" alt="image" src="https://github.com/user-attachments/assets/7ec15230-7ca1-4d80-8cb0-1a8aaca63bd4" />
 
 ### Full render
-todo
+<img width="933" height="621" alt="image" src="https://github.com/user-attachments/assets/cac46d55-a1c9-45f1-a4b1-9049f79ea7c8" />
 
 ### Zine
 <img width="455" height="642" alt="image" src="https://github.com/user-attachments/assets/0363bdc3-d55f-45a3-aa62-d35d6e96e749" />
