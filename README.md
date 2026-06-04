@@ -37,7 +37,7 @@ PCB: 2 USD + 3.3 USD shipping = 5.3 USD\
 Total: 29.13 USD (1 board + case)
 
 ## Assembly
-Prerequisites: soldered PCB and printed case
+Prerequisites: soldered PCB and printed case (PRINT THE CASE WITH +1-2% SCALE FOR TOLERANCES)
 
 1. Mark out the dimensions of the acrylic window and use a scoring tool to cut it
 2. From the sides, glue the acrylic window into the top case
@@ -57,6 +57,7 @@ Prerequisites: soldered PCB and printed case
 
 ### Full render
 <img width="933" height="621" alt="image" src="https://github.com/user-attachments/assets/cac46d55-a1c9-45f1-a4b1-9049f79ea7c8" />
+The model may appear not to fit, but this was due to the export being messed up. it fits fine according to all my calculations and two braincells
 
 ### Zine
 <img width="696" height="992" alt="image" src="https://github.com/user-attachments/assets/96951f64-cadd-4a4e-9b3d-44349c946a8c" />
